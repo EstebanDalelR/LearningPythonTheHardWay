@@ -1,11 +1,11 @@
-#Cheatsheet for Python
+# Cheatsheet for Python
 
-###Escape Sequences
+### Escape Sequences
 Escape characters get interpreted even inside single or double quotes.
 
-* \\ Backslash ()
-* \' Single quote (')
-* \" Double quote (")
+* \\\ Backslash ()
+* \\' Single quote (')
+* \\" Double quote (")
 * \a ASCII Bell (BEL)
 * \b ASCII Backspace (BS)
 * \f ASCII Formfeed (FF)
